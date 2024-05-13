@@ -4,7 +4,7 @@ public class StringTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		// 참조타입		
 		String str1 ="홍길동";
 		String str2 ="홍길동";
 		
